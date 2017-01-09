@@ -1,3 +1,24 @@
-// Place all the styles related to the home controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.row{
+	width: 100%;
+}
+
+#afrinames{
+	background-image: image-url("Websitedev.JPG");
+	width: 375px;
+	height: 200px;
+	margin-bottom: 20px;
+	
+	color: red;
+}
+.Aboutme{
+	background-color: #2A3132;
+	width: 100%;
+	color: white;
+
+}
+#skills{
+	background: image-url("progressbarresized.png") no-repeat;
+	
+	
+	height: 400px;
+}
